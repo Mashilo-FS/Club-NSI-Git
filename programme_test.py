@@ -22,3 +22,5 @@ def morning(person: dict, reminder_time: int):
 if __name__ == "__main__":
     print("Fichier Principal")
     birthday(me)
+    # Le lundi !!!
+    morning(me, 3)
