@@ -1,6 +1,6 @@
 me = {
     "name": "Lucas",
-    "age": 26,
+    "age": 16,
     "class": "Terminale"
 }
 
